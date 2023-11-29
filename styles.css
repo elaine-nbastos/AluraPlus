@@ -182,6 +182,11 @@ body {
 
     .dispositivos__lista{
         display: block;
+        margin: 2em 0;
+    }
+
+    .dispositivos__imagem {
+        width: 50vw;
     }
 
     .rodape__lista{
